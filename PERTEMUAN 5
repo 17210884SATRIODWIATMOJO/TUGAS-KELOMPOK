@@ -18,8 +18,7 @@ nilai_uas = int(input("Nilai UAS             = "))
 
 # prosses
 
-jml = nilai_absen * 0.20 + nilai_tugas1 * 0.10 + \
-    nilai_tugas2 * 0.10 + nilai_uts * 0.30 + nilai_uas * 0.30
+jml = nilai_absen * 0.2 + nilai_tugas1 * 0.1 + nilai_tugas2 * 0.1 + nilai_uts * 0.3 + nilai_uas * 0.3
 
 
 # output
